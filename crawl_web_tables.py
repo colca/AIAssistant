@@ -102,8 +102,8 @@ def extract_wiki_table(driver, url):
     return rows_data
 
 
-url = 'https://wiki.coupang.net/display/SD/%5B2024+Q2%5D%5BW16%5D+Infra'
-root_url = 'https://wiki.coupang.net/display/SD/Operational+Excellence+-+Infrastructure'
+url = 'https://wiki.xxxx.net/display/SD/%5B2024+Q2%5D%5BW16%5D+Infra'
+root_url = 'https://wiki.xxxx.net/display/SD/Operational'
 extract_from_root(driver, root_url)
 
 # Close the driver
