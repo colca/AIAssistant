@@ -5,7 +5,7 @@ from selenium.webdriver.chrome.service import Service
 
 import time
 
-loginUrl = "https://wiki.coupang.net/plugins/servlet/samlsso"
+loginUrl = "https://secret wiki"
 service = Service('/opt/homebrew/bin/chromedriver')
 output_file_name = "oe_data.json"
 
